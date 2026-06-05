@@ -1,0 +1,41 @@
+{
+	"storyName": "Original Vs John",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Inhale Retro",
+			"johnretro",
+			[
+				59,
+				99,
+				165
+			]
+		],
+		[
+			"Strength Retro",
+			"johnretro",
+			[
+				59,
+				99,
+				165
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "weekclassic",
+	"hiddenUntilUnlocked": false
+}
