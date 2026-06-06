@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "John IDLE"
+		},
+		{
+			"offsets": [
+				18,
+				3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "John LEFT"
+		},
+		{
+			"offsets": [
+				-10,
+				-2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "John DOWN"
+		},
+		{
+			"offsets": [
+				15,
+				45
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "John UP"
+		},
+		{
+			"offsets": [
+				-5,
+				7
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "John RIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/John_retroSprites",
+	"position": [
+		0,
+		80
+	],
+	"healthicon": "johnretro",
+	"flip_x": false,
+	"healthbar_colors": [
+		107,
+		107,
+		107
+	],
+	"camera_position": [
+		80,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-59,
+				-108
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "John IDLE"
+		},
+		{
+			"offsets": [
+				-9,
+				-116
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "John LEFT"
+		},
+		{
+			"offsets": [
+				-9,
+				-120
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "John DOWN"
+		},
+		{
+			"offsets": [
+				-16,
+				-104
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "John UP"
+		},
+		{
+			"offsets": [
+				-44,
+				-113
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "John RIGHT"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/John_Sprites",
+	"position": [
+		90,
+		100
+	],
+	"healthicon": "john",
+	"flip_x": false,
+	"healthbar_colors": [
+		59,
+		99,
+		165
+	],
+	"camera_position": [
+		80,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.5,
+	"_editor_isPlayer": false
+}

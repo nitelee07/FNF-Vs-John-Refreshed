@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="John_retroSprites.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="John DOWN0000" x="0" y="0" width="288" height="698" frameX="0" frameY="-23" frameWidth="288" frameHeight="722"/>
+	<SubTexture name="John DOWN0001" x="0" y="0" width="288" height="698" frameX="0" frameY="-23" frameWidth="288" frameHeight="722"/>
+	<SubTexture name="John DOWN0002" x="288" y="0" width="264" height="722" frameX="-16" frameY="0" frameWidth="288" frameHeight="722"/>
+	<SubTexture name="John DOWN0003" x="288" y="0" width="264" height="722" frameX="-16" frameY="0" frameWidth="288" frameHeight="722"/>
+	<SubTexture name="John IDLE0000" x="552" y="0" width="268" height="716" frameX="-26" frameY="-9" frameWidth="294" frameHeight="725"/>
+	<SubTexture name="John IDLE0001" x="552" y="0" width="268" height="716" frameX="-26" frameY="-9" frameWidth="294" frameHeight="725"/>
+	<SubTexture name="John IDLE0002" x="820" y="0" width="259" height="719" frameX="-26" frameY="-6" frameWidth="294" frameHeight="725"/>
+	<SubTexture name="John IDLE0003" x="820" y="0" width="259" height="719" frameX="-26" frameY="-6" frameWidth="294" frameHeight="725"/>
+	<SubTexture name="John IDLE0004" x="1079" y="0" width="249" height="725" frameX="0" frameY="0" frameWidth="294" frameHeight="725"/>
+	<SubTexture name="John IDLE0005" x="1079" y="0" width="249" height="725" frameX="0" frameY="0" frameWidth="294" frameHeight="725"/>
+	<SubTexture name="John LEFT0000" x="1328" y="0" width="283" height="723" frameX="0" frameY="-5" frameWidth="283" frameHeight="728"/>
+	<SubTexture name="John LEFT0001" x="1328" y="0" width="283" height="723" frameX="0" frameY="-5" frameWidth="283" frameHeight="728"/>
+	<SubTexture name="John LEFT0002" x="1611" y="0" width="250" height="728" frameX="-29" frameY="0" frameWidth="283" frameHeight="728"/>
+	<SubTexture name="John LEFT0003" x="1611" y="0" width="250" height="728" frameX="-29" frameY="0" frameWidth="283" frameHeight="728"/>
+	<SubTexture name="John RIGHT0000" x="0" y="728" width="400" height="708" frameX="0" frameY="-6" frameWidth="400" frameHeight="723"/>
+	<SubTexture name="John RIGHT0001" x="0" y="728" width="400" height="708" frameX="0" frameY="-6" frameWidth="400" frameHeight="723"/>
+	<SubTexture name="John RIGHT0002" x="400" y="728" width="285" height="723" frameX="-28" frameY="0" frameWidth="400" frameHeight="723"/>
+	<SubTexture name="John RIGHT0003" x="400" y="728" width="285" height="723" frameX="-28" frameY="0" frameWidth="400" frameHeight="723"/>
+	<SubTexture name="John UP0000" x="685" y="728" width="269" height="772"/>
+	<SubTexture name="John UP0001" x="685" y="728" width="269" height="772"/>
+	<SubTexture name="John UP0002" x="954" y="728" width="269" height="752" frameX="0" frameY="-20" frameWidth="269" frameHeight="772"/>
+	<SubTexture name="John UP0003" x="954" y="728" width="269" height="752" frameX="0" frameY="-20" frameWidth="269" frameHeight="772"/>
+</TextureAtlas>
