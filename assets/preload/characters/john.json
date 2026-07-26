@@ -1,66 +1,67 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				-59,
 				-108
 			],
+			"indices": [],
+			"fps": 24,
 			"anim": "idle",
-			"fps": 24,
-			"name": "John IDLE",
-			"indices": []
+			"loop": false,
+			"name": "John IDLE"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-31,
-				-119
+				-9,
+				-116
 			],
+			"indices": [],
+			"fps": 24,
 			"anim": "singLEFT",
-			"fps": 24,
-			"name": "John LEFT",
-			"indices": []
+			"loop": false,
+			"name": "John LEFT"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-33,
-				-165
+				-9,
+				-120
 			],
+			"indices": [],
+			"fps": 24,
 			"anim": "singDOWN",
-			"fps": 24,
-			"name": "John DOWN",
-			"indices": []
+			"loop": false,
+			"name": "John DOWN"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-17,
-				-103
+				-16,
+				-104
 			],
-			"anim": "singUP",
+			"indices": [],
 			"fps": 24,
-			"name": "John UP",
-			"indices": []
+			"anim": "singUP",
+			"loop": false,
+			"name": "John UP"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-58,
+				-44,
 				-113
 			],
-			"anim": "singRIGHT",
+			"indices": [],
 			"fps": 24,
-			"name": "John RIGHT",
-			"indices": []
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "John RIGHT"
 		}
 	],
+	"vocals_file": "",
 	"no_antialiasing": false,
 	"image": "characters/John_Sprites",
 	"position": [
 		90,
-		120
+		100
 	],
 	"healthicon": "john",
 	"flip_x": false,
@@ -71,8 +72,9 @@
 	],
 	"camera_position": [
 		80,
-		-60
+		0
 	],
 	"sing_duration": 4,
-	"scale": 2
+	"scale": 1.5,
+	"_editor_isPlayer": false
 }
